@@ -1,3 +1,7 @@
-
-"<h1 style='text-align:center; margin-top:20%;'>Hello u opened this bec ur gay</h1>"
-
+echo "# normal-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aarjav-Aashna-Jain/normal-.git
+git push -u origin main
